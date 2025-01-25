@@ -159,3 +159,11 @@ This task analyzes medical text data for insights and groups similar cases throu
    - Use specialized metrics to evaluate model efficacy in clustering and prediction.
 
 This project integrates statistical analysis, machine learning, and natural language processing to gain actionable insights from cancer patient data and medical text, providing a strong foundation for further research and development.
+
+
+
+
+colab files of all team members 
+shanmuga kumar :- https://colab.research.google.com/drive/1B6FRD7hBeqwkg2Sq_EP1plq70AoWptZt?usp=sharing
+
+sharma thangam :- https://colab.research.google.com/drive/1lzvKIb-5TYtM9Usiv42PuV7QMaeFVCWw?usp=sharing
