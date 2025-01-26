@@ -1,4 +1,4 @@
-##Group members
-# Debojit Makhal
+#Group Members
+Debojit Makhal
 cse2022113@rcciit.org.in
 
